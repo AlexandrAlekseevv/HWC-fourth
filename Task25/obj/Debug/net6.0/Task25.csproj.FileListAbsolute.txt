@@ -1,0 +1,15 @@
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/bin/Debug/net6.0/Task25
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/bin/Debug/net6.0/Task25.deps.json
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/bin/Debug/net6.0/Task25.runtimeconfig.json
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/bin/Debug/net6.0/Task25.dll
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/bin/Debug/net6.0/Task25.pdb
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.csproj.AssemblyReference.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.GeneratedMSBuildEditorConfig.editorconfig
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.AssemblyInfoInputs.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.AssemblyInfo.cs
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.csproj.CoreCompileInputs.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.dll
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/refint/Task25.dll
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.pdb
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/Task25.genruntimeconfig.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task25/obj/Debug/net6.0/ref/Task25.dll

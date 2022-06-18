@@ -1,0 +1,15 @@
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/bin/Debug/net6.0/Task27
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/bin/Debug/net6.0/Task27.deps.json
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/bin/Debug/net6.0/Task27.runtimeconfig.json
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/bin/Debug/net6.0/Task27.dll
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/bin/Debug/net6.0/Task27.pdb
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.csproj.AssemblyReference.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.GeneratedMSBuildEditorConfig.editorconfig
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.AssemblyInfoInputs.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.AssemblyInfo.cs
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.csproj.CoreCompileInputs.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.dll
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/refint/Task27.dll
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.pdb
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/Task27.genruntimeconfig.cache
+/home/sundrop/Рабочий стол/GIIIIT/C#/MSLF/HW/HW4Sem/Task27/obj/Debug/net6.0/ref/Task27.dll
